@@ -108,6 +108,7 @@ section {
 
 
 img {
+    max-width: 796px;
+    width: 100%;
     display: inline-block;
-    margin-left: 759px;
     }
