@@ -1,0 +1,113 @@
+
+.logo{
+    margin-top: 37px;
+    margin-left: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+} 
+
+.nav {
+    margin-top: 48px;
+    margin-left: 98px;
+    word-spacing: 38px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.sign-up {
+    width: 120px;
+    height: 59.65px;
+    background: #33A2E0;
+    border-radius: 6px;
+    border:none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal; 
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.sign{
+    margin-top: 48px;
+    margin-right: 67.74px;
+    margin-left: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.dot{
+color: #33A2E0;
+}
+
+.main-heading{
+    max-width: 495px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 193px;
+    font-family:'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 1.05;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.main-info{
+    max-width: 584px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family:'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.6;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+
+.main-btn{
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 200px;
+    background: #33A2E0;
+    border-radius: 6px;
+    border:none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+section {
+    display: inline-block;
+    }
+
+
+img {
+    display: inline-block;
+    margin-left: 759px;
+    }
